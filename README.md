@@ -17,21 +17,21 @@ Como parte de llevar un registro digital de sus libros y el historial de uso por
 # 🗂️ Estructura de la base de datos (Firestore)
 
  (String):
- Alumno 
- Nombre del Autor
- Materia
- Carrera
- Libros
- Genero
- Año de publicacion
- Mes de publicacion
- Autor
- Titulo
- Subtitulo
- Temas
- Subtemas
- Desarrollo
- Estilo
+ -Alumno 
+ -Nombre del Autor
+ -Materia
+ -Carrera
+ -Libros
+ -Genero
+ -Año de publicacion
+ -Mes de publicacion
+ -Autor
+ -Titulo
+ -Subtitulo
+ -Temas
+ -Subtemas
+ -Desarrollo
+ -Estilo
 
 # 🌟🚀 Instrucciones de uso
 
